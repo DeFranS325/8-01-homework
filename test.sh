@@ -3,4 +3,4 @@
 #3th bash command
 #4th bash command
 #5th bash command
-#main 6th bash command
+#conflict 6th bash command
